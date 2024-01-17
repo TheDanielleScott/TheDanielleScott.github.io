@@ -15,3 +15,5 @@
  * Hello World: Android app
 
  ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/danielle-scott-7b94822a3/) 
