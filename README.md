@@ -10,7 +10,7 @@
 
  ## Current projects
 
- * Hello World: Java console application
+ * [Hello World: Java console application](https://github.com/ddc-java-17/hello-world-TheDanielleScott)
 
  * Hello World: Android app
 
